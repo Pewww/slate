@@ -1,0 +1,7 @@
+git:
+  filters:
+  - filter_type: dynamic
+    file_format: GITHUBMARKDOWN
+    source_files_expression: docs/en/<file>.md
+    source_language: en
+    translation_files_expression: 'docs/<lang>/'
