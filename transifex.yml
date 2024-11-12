@@ -4,4 +4,4 @@ git:
     file_format: GITHUBMARKDOWN
     source_files_expression: docs/en/<file>.md
     source_language: en
-    translation_files_expression: 'docs/<lang>/'
+    translation_files_expression: 'docs/<lang>/<file>.md'
