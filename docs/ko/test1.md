@@ -1,1 +1,1 @@
-testing testing
+동작 테스트입니다.
